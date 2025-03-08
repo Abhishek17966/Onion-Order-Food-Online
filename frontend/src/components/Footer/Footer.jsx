@@ -42,6 +42,7 @@ const Footer = () => {
       </div>
       <hr />
       <p className="footer-copyright">
+        Designed with ❤️ by Abhishek
         Copyright 2024 © Onion.com - All Rights Reserved.
       </p>
     </div>
